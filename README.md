@@ -3,6 +3,7 @@ We will investigate the neural substrate of decision making by analyzing the neu
 Keywords:
 Steinmetz, Single neuronCognitive Process,Decision Making,Dimensionality reduction,Machine learning, Classification problem, Neuropixel.
 # Research Questions
+
 Does a Brain Area has more predictive power of the mice response?
 ![image](https://user-images.githubusercontent.com/12738794/127223288-e3fc14a9-5468-42f5-ad1f-4578316ee73b.png)
 
