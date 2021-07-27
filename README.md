@@ -2,6 +2,11 @@
 We will investigate the neural substrate of decision making by analyzing the neural activity during a mouse behavioral task. In the task, mice are required to choose between two stimuli while neural activity is recorded using Neuropixel probes, a type of high-density electrophysiological recording tool. We will train a decoder to predict the choice of the mouse from neural activity obtained from 42 brain regions, that include cortical and subcortical areas like basal ganglia, hippocampus, thalamus, visual and frontal cortex. We hypothesize that (1) population activity from the supplementary motor (M2) cortex will have the highest predictive power regarding the choice of all the brain regions, because this brain area is known for contributing to control of movement. (2) We predict that a time-window shortly before the response onset will allow our model to predict the response of the mouse with higher accuracy, because the decision to move would manifest a little earlier than the response. To investigate 1 we will use a machine learning approach comparing different supervised learning algorithms like XGBoost, Gradient boosting, Naive Bayes. These models will learn some parameters of the data available that will be used in order to map different activities with different responses. To investigate 2 we will divide the signal into different time-windows relative to the events in the experiment (stimulus onset, response) to see when the upcoming choices are modeled with greater accuracy. The results obtained by these methods will allow us to respond to our research questions concerning the relevant neuronal activity during the decision making process.
 Keywords:
 Steinmetz, Single neuronCognitive Process,Decision Making,Dimensionality reduction,Machine learning, Classification problem, Neuropixel.
+# Research Questions
+Does a Brain Area has more predictive power of the mice response?
+![image](https://user-images.githubusercontent.com/12738794/127223273-c3130aeb-9a69-4317-abb8-8ccdbac70104.png)
+![image](https://user-images.githubusercontent.com/12738794/127223288-e3fc14a9-5468-42f5-ad1f-4578316ee73b.png)
+
 
 # Dataset
 Neuropixels recordings during visual discrimination from Steinmetz et al 2019. Also accessible in Neurodata Without Borders (NWB) format here and via the Open Neurophysiology Environment (ONE) interface here.
