@@ -9,7 +9,7 @@ Recordings with eight Neuropixels simultaneously during spontaneous behavior fro
 An example dataset recorded with a Neuropixels probe, with original raw data available.
 An example dataset recorded with two Neuropixels probes, from Jun, Steinmetz, Siegle, Denman, Bauza, Barbarits, Lee, et al 2017.
 
-### Examples 
+### Neurons 
 
 | Name  | Description | Notes |
 | ------------- | ------------- | ------------ |
