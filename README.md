@@ -8,3 +8,11 @@ Neuropixels recordings during visual discrimination from Steinmetz et al 2019. A
 Recordings with eight Neuropixels simultaneously during spontaneous behavior from Stringer, Pachitariu, et al 2019.
 An example dataset recorded with a Neuropixels probe, with original raw data available.
 An example dataset recorded with two Neuropixels probes, from Jun, Steinmetz, Siegle, Denman, Bauza, Barbarits, Lee, et al 2017.
+
+### Examples 
+
+| Name  | Description | Notes |
+| ------------- | ------------- | ------------ |
+| [Steinmetz ](https://github.com/nsteinme/steinmetz-et-al-2019) | mice recordings of Neuropixel. Also accessible in Neurodata Without Borders (NWB) format here and via the Open Neurophysiology Environment (ONE) . | Includes a PyTorch dataloaders for classification.  |
+
+
