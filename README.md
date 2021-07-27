@@ -4,7 +4,6 @@ Keywords:
 Steinmetz, Single neuronCognitive Process,Decision Making,Dimensionality reduction,Machine learning, Classification problem, Neuropixel.
 # Research Questions
 Does a Brain Area has more predictive power of the mice response?
-![image](https://user-images.githubusercontent.com/12738794/127223273-c3130aeb-9a69-4317-abb8-8ccdbac70104.png)
 ![image](https://user-images.githubusercontent.com/12738794/127223288-e3fc14a9-5468-42f5-ad1f-4578316ee73b.png)
 
 
