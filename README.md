@@ -20,4 +20,3 @@ An example dataset recorded with two Neuropixels probes, from Jun, Steinmetz, Si
 | ------------- | ------------- | ------------ |
 | [Steinmetz ](https://github.com/nsteinme/steinmetz-et-al-2019) | mice recordings of Neuropixel. Also accessible in Neurodata Without Borders (NWB) format here and via the Open Neurophysiology Environment (ONE) . | Includes a PyTorch dataloaders for classification.  |
 
-
