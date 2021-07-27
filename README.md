@@ -6,6 +6,10 @@ Steinmetz, Single neuronCognitive Process,Decision Making,Dimensionality reducti
 Does a Brain Area has more predictive power of the mice response?
 ![image](https://user-images.githubusercontent.com/12738794/127223288-e3fc14a9-5468-42f5-ad1f-4578316ee73b.png)
 
+Is a time-window is more important for predicting the response with more accuracy? 
+![image](https://user-images.githubusercontent.com/12738794/127223424-34543ee1-89fb-4d30-ae8b-b1788dd6cd9b.png)
+
+
 
 # Dataset
 Neuropixels recordings during visual discrimination from Steinmetz et al 2019. Also accessible in Neurodata Without Borders (NWB) format here and via the Open Neurophysiology Environment (ONE) interface here.
